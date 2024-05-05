@@ -1,0 +1,605 @@
+*normal : c: 0 pre: 0 currentval: 585 pos: 0 || *me: c: 0 olpre: 0 currentval: 585 current pre: 0
+*normal : c: 0 pre: 0 currentval: 137 pos: 0 || *me: c: 0 olpre: 0 currentval: 137 current pre: 0
+*normal : c: 1 pre: 0 currentval: 48 pos: 1 || *me: c: 1 olpre: 0 currentval: 48 current pre: 1
+*normal : c: 2 pre: 1 currentval: 661 pos: 0 || *me: c: 2 olpre: 1 currentval: 661 current pre: 0
+*normal : c: 3 pre: 0 currentval: 449 pos: 1 || *me: c: 3 olpre: 0 currentval: 449 current pre: 1
+*normal : c: 4 pre: 1 currentval: 748 pos: 0 || *me: c: 4 olpre: 1 currentval: 748 current pre: 0
+*normal : c: 4 pre: 0 currentval: 439 pos: 0 || *me: c: 4 olpre: 0 currentval: 439 current pre: 0
+*normal : c: 5 pre: 0 currentval: 438 pos: 1 || *me: c: 5 olpre: 0 currentval: 438 current pre: 1
+*normal : c: 6 pre: 1 currentval: 888 pos: 0 || *me: c: 6 olpre: 1 currentval: 888 current pre: 0
+*normal : c: 7 pre: 0 currentval: 271 pos: 1 || *me: c: 7 olpre: 0 currentval: 271 current pre: 1
+*normal : c: 8 pre: 1 currentval: 985 pos: 0 || *me: c: 8 olpre: 1 currentval: 985 current pre: 0
+*normal : c: 9 pre: 0 currentval: 574 pos: 1 || *me: c: 9 olpre: 0 currentval: 574 current pre: 1
+*normal : c: 10 pre: 1 currentval: 591 pos: 0 || *me: c: 10 olpre: 1 currentval: 591 current pre: 0
+*normal : c: 11 pre: 0 currentval: 59 pos: 1 || *me: c: 11 olpre: 0 currentval: 59 current pre: 1
+*normal : c: 11 pre: 1 currentval: 276 pos: 1 || *me: c: 11 olpre: 1 currentval: 276 current pre: 1
+*normal : c: 11 pre: 1 currentval: 610 pos: 1 || *me: c: 11 olpre: 1 currentval: 610 current pre: 1
+*normal : c: 12 pre: 1 currentval: 999 pos: 0 || *me: c: 12 olpre: 1 currentval: 999 current pre: 0
+*normal : c: 13 pre: 0 currentval: 911 pos: 1 || *me: c: 13 olpre: 0 currentval: 911 current pre: 1
+*normal : c: 14 pre: 1 currentval: 991 pos: 0 || *me: c: 14 olpre: 1 currentval: 991 current pre: 0
+*normal : c: 15 pre: 0 currentval: 623 pos: 1 || *me: c: 15 olpre: 0 currentval: 623 current pre: 1
+*normal : c: 16 pre: 1 currentval: 943 pos: 0 || *me: c: 16 olpre: 1 currentval: 943 current pre: 0
+*normal : c: 16 pre: 0 currentval: 714 pos: 0 || *me: c: 16 olpre: 0 currentval: 714 current pre: 0
+*normal : c: 17 pre: 0 currentval: 115 pos: 1 || *me: c: 17 olpre: 0 currentval: 115 current pre: 1
+*normal : c: 18 pre: 1 currentval: 853 pos: 0 || *me: c: 18 olpre: 1 currentval: 853 current pre: 0
+*normal : c: 19 pre: 0 currentval: 469 pos: 1 || *me: c: 19 olpre: 0 currentval: 469 current pre: 1
+*normal : c: 19 pre: 1 currentval: 478 pos: 1 || *me: c: 19 olpre: 1 currentval: 478 current pre: 1
+*normal : c: 20 pre: 1 currentval: 666 pos: 0 || *me: c: 20 olpre: 1 currentval: 666 current pre: 0
+*normal : c: 21 pre: 0 currentval: 325 pos: 1 || *me: c: 21 olpre: 0 currentval: 325 current pre: 1
+*normal : c: 22 pre: 1 currentval: 542 pos: 0 || *me: c: 22 olpre: 1 currentval: 542 current pre: 0
+*normal : c: 22 pre: 0 currentval: 321 pos: 0 || *me: c: 22 olpre: 0 currentval: 321 current pre: 0
+*normal : c: 23 pre: 0 currentval: 142 pos: 1 || *me: c: 23 olpre: 0 currentval: 142 current pre: 1
+*normal : c: 24 pre: 1 currentval: 478 pos: 0 || *me: c: 24 olpre: 1 currentval: 478 current pre: 0
+*normal : c: 25 pre: 0 currentval: 458 pos: 1 || *me: c: 25 olpre: 0 currentval: 458 current pre: 1
+*normal : c: 26 pre: 1 currentval: 541 pos: 0 || *me: c: 26 olpre: 1 currentval: 541 current pre: 0
+*normal : c: 27 pre: 0 currentval: 491 pos: 1 || *me: c: 27 olpre: 0 currentval: 491 current pre: 1
+*normal : c: 28 pre: 1 currentval: 906 pos: 0 || *me: c: 28 olpre: 1 currentval: 906 current pre: 0
+*normal : c: 28 pre: 0 currentval: 640 pos: 0 || *me: c: 28 olpre: 0 currentval: 640 current pre: 0
+*normal : c: 29 pre: 0 currentval: 281 pos: 1 || *me: c: 29 olpre: 0 currentval: 281 current pre: 1
+*normal : c: 30 pre: 1 currentval: 696 pos: 0 || *me: c: 30 olpre: 1 currentval: 696 current pre: 0
+*normal : c: 31 pre: 0 currentval: 527 pos: 1 || *me: c: 31 olpre: 0 currentval: 527 current pre: 1
+*normal : c: 32 pre: 1 currentval: 551 pos: 0 || *me: c: 32 olpre: 1 currentval: 551 current pre: 0
+*normal : c: 33 pre: 0 currentval: 32 pos: 1 || *me: c: 33 olpre: 0 currentval: 32 current pre: 1
+*normal : c: 33 pre: 1 currentval: 453 pos: 1 || *me: c: 33 olpre: 1 currentval: 453 current pre: 1
+*normal : c: 34 pre: 1 currentval: 493 pos: 0 || *me: c: 34 olpre: 1 currentval: 493 current pre: 0
+*normal : c: 35 pre: 0 currentval: 442 pos: 1 || *me: c: 35 olpre: 0 currentval: 442 current pre: 1
+*normal : c: 36 pre: 1 currentval: 728 pos: 0 || *me: c: 36 olpre: 1 currentval: 728 current pre: 0
+*normal : c: 37 pre: 0 currentval: 102 pos: 1 || *me: c: 37 olpre: 0 currentval: 102 current pre: 1
+*normal : c: 37 pre: 1 currentval: 440 pos: 1 || *me: c: 37 olpre: 1 currentval: 440 current pre: 1
+*normal : c: 38 pre: 1 currentval: 990 pos: 0 || *me: c: 38 olpre: 1 currentval: 990 current pre: 0
+*normal : c: 38 pre: 0 currentval: 445 pos: 0 || *me: c: 38 olpre: 0 currentval: 445 current pre: 0
+*normal : c: 38 pre: 0 currentval: 415 pos: 0 || *me: c: 38 olpre: 0 currentval: 415 current pre: 0
+*normal : c: 39 pre: 0 currentval: 284 pos: 1 || *me: c: 39 olpre: 0 currentval: 284 current pre: 1
+*normal : c: 39 pre: 1 currentval: 510 pos: 1 || *me: c: 39 olpre: 1 currentval: 510 current pre: 1
+*normal : c: 40 pre: 1 currentval: 881 pos: 0 || *me: c: 40 olpre: 1 currentval: 881 current pre: 0
+*normal : c: 41 pre: 0 currentval: 136 pos: 1 || *me: c: 41 olpre: 0 currentval: 136 current pre: 1
+*normal : c: 41 pre: 1 currentval: 330 pos: 1 || *me: c: 41 olpre: 1 currentval: 330 current pre: 1
+*normal : c: 42 pre: 1 currentval: 710 pos: 0 || *me: c: 42 olpre: 1 currentval: 710 current pre: 0
+*normal : c: 43 pre: 0 currentval: 153 pos: 1 || *me: c: 43 olpre: 0 currentval: 153 current pre: 1
+*normal : c: 44 pre: 1 currentval: 654 pos: 0 || *me: c: 44 olpre: 1 currentval: 654 current pre: 0
+*normal : c: 44 pre: 0 currentval: 603 pos: 0 || *me: c: 44 olpre: 0 currentval: 603 current pre: 0
+*normal : c: 44 pre: 0 currentval: 474 pos: 0 || *me: c: 44 olpre: 0 currentval: 474 current pre: 0
+*normal : c: 45 pre: 0 currentval: 147 pos: 1 || *me: c: 45 olpre: 0 currentval: 147 current pre: 1
+*normal : c: 45 pre: 1 currentval: 433 pos: 1 || *me: c: 45 olpre: 1 currentval: 433 current pre: 1
+*normal : c: 46 pre: 1 currentval: 931 pos: 0 || *me: c: 46 olpre: 1 currentval: 931 current pre: 0
+*normal : c: 47 pre: 0 currentval: 688 pos: 1 || *me: c: 47 olpre: 0 currentval: 688 current pre: 1
+*normal : c: 48 pre: 1 currentval: 923 pos: 0 || *me: c: 48 olpre: 1 currentval: 923 current pre: 0
+*normal : c: 49 pre: 0 currentval: 188 pos: 1 || *me: c: 49 olpre: 0 currentval: 188 current pre: 1
+*normal : c: 50 pre: 1 currentval: 679 pos: 0 || *me: c: 50 olpre: 1 currentval: 679 current pre: 0
+*normal : c: 51 pre: 0 currentval: 203 pos: 1 || *me: c: 51 olpre: 0 currentval: 203 current pre: 1
+*normal : c: 52 pre: 1 currentval: 883 pos: 0 || *me: c: 52 olpre: 1 currentval: 883 current pre: 0
+*normal : c: 53 pre: 0 currentval: 206 pos: 1 || *me: c: 53 olpre: 0 currentval: 206 current pre: 1
+*normal : c: 54 pre: 1 currentval: 754 pos: 0 || *me: c: 54 olpre: 1 currentval: 754 current pre: 0
+*normal : c: 54 pre: 0 currentval: 267 pos: 0 || *me: c: 54 olpre: 0 currentval: 267 current pre: 0
+*normal : c: 55 pre: 0 currentval: 10 pos: 1 || *me: c: 55 olpre: 0 currentval: 10 current pre: 1
+*normal : c: 55 pre: 1 currentval: 598 pos: 1 || *me: c: 55 olpre: 1 currentval: 598 current pre: 1
+*normal : c: 56 pre: 1 currentval: 708 pos: 0 || *me: c: 56 olpre: 1 currentval: 708 current pre: 0
+*normal : c: 56 pre: 0 currentval: 89 pos: 0 || *me: c: 56 olpre: 0 currentval: 89 current pre: 0
+*normal : c: 57 pre: 0 currentval: 52 pos: 1 || *me: c: 57 olpre: 0 currentval: 52 current pre: 1
+*normal : c: 58 pre: 1 currentval: 500 pos: 0 || *me: c: 58 olpre: 1 currentval: 500 current pre: 0
+*normal : c: 59 pre: 0 currentval: 78 pos: 1 || *me: c: 59 olpre: 0 currentval: 78 current pre: 1
+*normal : c: 60 pre: 1 currentval: 496 pos: 0 || *me: c: 60 olpre: 1 currentval: 496 current pre: 0
+*normal : c: 61 pre: 0 currentval: 266 pos: 1 || *me: c: 61 olpre: 0 currentval: 266 current pre: 1
+*normal : c: 62 pre: 1 currentval: 361 pos: 0 || *me: c: 62 olpre: 1 currentval: 361 current pre: 0
+*normal : c: 62 pre: 0 currentval: 357 pos: 0 || *me: c: 62 olpre: 0 currentval: 357 current pre: 0
+*normal : c: 63 pre: 0 currentval: 146 pos: 1 || *me: c: 63 olpre: 0 currentval: 146 current pre: 1
+*normal : c: 63 pre: 1 currentval: 496 pos: 1 || *me: c: 63 olpre: 1 currentval: 496 current pre: 1
+*normal : c: 64 pre: 1 currentval: 687 pos: 0 || *me: c: 64 olpre: 1 currentval: 687 current pre: 0
+*normal : c: 64 pre: 0 currentval: 208 pos: 0 || *me: c: 64 olpre: 0 currentval: 208 current pre: 0
+*normal : c: 65 pre: 0 currentval: 1 pos: 1 || *me: c: 65 olpre: 0 currentval: 1 current pre: 1
+*normal : c: 65 pre: 1 currentval: 692 pos: 1 || *me: c: 65 olpre: 1 currentval: 692 current pre: 1
+*normal : c: 66 pre: 1 currentval: 810 pos: 0 || *me: c: 66 olpre: 1 currentval: 810 current pre: 0
+*normal : c: 67 pre: 0 currentval: 474 pos: 1 || *me: c: 67 olpre: 0 currentval: 474 current pre: 1
+*normal : c: 68 pre: 1 currentval: 839 pos: 0 || *me: c: 68 olpre: 1 currentval: 839 current pre: 0
+*normal : c: 69 pre: 0 currentval: 242 pos: 1 || *me: c: 69 olpre: 0 currentval: 242 current pre: 1
+*normal : c: 69 pre: 1 currentval: 404 pos: 1 || *me: c: 69 olpre: 1 currentval: 404 current pre: 1
+*normal : c: 70 pre: 1 currentval: 878 pos: 0 || *me: c: 70 olpre: 1 currentval: 878 current pre: 0
+*normal : c: 71 pre: 0 currentval: 516 pos: 1 || *me: c: 71 olpre: 0 currentval: 516 current pre: 1
+*normal : c: 72 pre: 1 currentval: 943 pos: 0 || *me: c: 72 olpre: 1 currentval: 943 current pre: 0
+*normal : c: 73 pre: 0 currentval: 556 pos: 1 || *me: c: 73 olpre: 0 currentval: 556 current pre: 1
+*normal : c: 74 pre: 1 currentval: 719 pos: 0 || *me: c: 74 olpre: 1 currentval: 719 current pre: 0
+*normal : c: 74 pre: 0 currentval: 178 pos: 0 || *me: c: 74 olpre: 0 currentval: 178 current pre: 0
+*normal : c: 75 pre: 0 currentval: 113 pos: 1 || *me: c: 75 olpre: 0 currentval: 113 current pre: 1
+*normal : c: 76 pre: 1 currentval: 824 pos: 0 || *me: c: 76 olpre: 1 currentval: 824 current pre: 0
+*normal : c: 77 pre: 0 currentval: 444 pos: 1 || *me: c: 77 olpre: 0 currentval: 444 current pre: 1
+*normal : c: 77 pre: 1 currentval: 474 pos: 1 || *me: c: 77 olpre: 1 currentval: 474 current pre: 1
+*normal : c: 78 pre: 1 currentval: 773 pos: 0 || *me: c: 78 olpre: 1 currentval: 773 current pre: 0
+*normal : c: 79 pre: 0 currentval: 503 pos: 1 || *me: c: 79 olpre: 0 currentval: 503 current pre: 1
+*normal : c: 79 pre: 1 currentval: 562 pos: 1 || *me: c: 79 olpre: 1 currentval: 562 current pre: 1
+*normal : c: 80 pre: 1 currentval: 824 pos: 0 || *me: c: 80 olpre: 1 currentval: 824 current pre: 0
+*normal : c: 81 pre: 0 currentval: 2 pos: 1 || *me: c: 81 olpre: 0 currentval: 2 current pre: 1
+*normal : c: 82 pre: 1 currentval: 639 pos: 0 || *me: c: 82 olpre: 1 currentval: 639 current pre: 0
+*normal : c: 82 pre: 0 currentval: 319 pos: 0 || *me: c: 82 olpre: 0 currentval: 319 current pre: 0
+*normal : c: 83 pre: 0 currentval: 267 pos: 1 || *me: c: 83 olpre: 0 currentval: 267 current pre: 1
+*normal : c: 83 pre: 1 currentval: 351 pos: 1 || *me: c: 83 olpre: 1 currentval: 351 current pre: 1
+*normal : c: 83 pre: 1 currentval: 676 pos: 1 || *me: c: 83 olpre: 1 currentval: 676 current pre: 1
+*normal : c: 84 pre: 1 currentval: 765 pos: 0 || *me: c: 84 olpre: 1 currentval: 765 current pre: 0
+*normal : c: 85 pre: 0 currentval: 199 pos: 1 || *me: c: 85 olpre: 0 currentval: 199 current pre: 1
+*normal : c: 85 pre: 1 currentval: 714 pos: 1 || *me: c: 85 olpre: 1 currentval: 714 current pre: 1
+*normal : c: 86 pre: 1 currentval: 972 pos: 0 || *me: c: 86 olpre: 1 currentval: 972 current pre: 0
+*normal : c: 87 pre: 0 currentval: 199 pos: 1 || *me: c: 87 olpre: 0 currentval: 199 current pre: 1
+*normal : c: 88 pre: 1 currentval: 405 pos: 0 || *me: c: 88 olpre: 1 currentval: 405 current pre: 0
+*normal : c: 89 pre: 0 currentval: 133 pos: 1 || *me: c: 89 olpre: 0 currentval: 133 current pre: 1
+*normal : c: 90 pre: 1 currentval: 672 pos: 0 || *me: c: 90 olpre: 1 currentval: 672 current pre: 0
+*normal : c: 91 pre: 0 currentval: 595 pos: 1 || *me: c: 91 olpre: 0 currentval: 595 current pre: 1
+*normal : c: 92 pre: 1 currentval: 727 pos: 0 || *me: c: 92 olpre: 1 currentval: 727 current pre: 0
+*normal : c: 93 pre: 0 currentval: 427 pos: 1 || *me: c: 93 olpre: 0 currentval: 427 current pre: 1
+*normal : c: 94 pre: 1 currentval: 824 pos: 0 || *me: c: 94 olpre: 1 currentval: 824 current pre: 0
+*normal : c: 95 pre: 0 currentval: 242 pos: 1 || *me: c: 95 olpre: 0 currentval: 242 current pre: 1
+*normal : c: 95 pre: 1 currentval: 369 pos: 1 || *me: c: 95 olpre: 1 currentval: 369 current pre: 1
+*normal : c: 96 pre: 1 currentval: 732 pos: 0 || *me: c: 96 olpre: 1 currentval: 732 current pre: 0
+*normal : c: 97 pre: 0 currentval: 312 pos: 1 || *me: c: 97 olpre: 0 currentval: 312 current pre: 1
+*normal : c: 98 pre: 1 currentval: 546 pos: 0 || *me: c: 98 olpre: 1 currentval: 546 current pre: 0
+*normal : c: 99 pre: 0 currentval: 196 pos: 1 || *me: c: 99 olpre: 0 currentval: 196 current pre: 1
+*normal : c: 100 pre: 1 currentval: 487 pos: 0 || *me: c: 100 olpre: 1 currentval: 487 current pre: 0
+*normal : c: 101 pre: 0 currentval: 341 pos: 1 || *me: c: 101 olpre: 0 currentval: 341 current pre: 1
+*normal : c: 102 pre: 1 currentval: 670 pos: 0 || *me: c: 102 olpre: 1 currentval: 670 current pre: 0
+*normal : c: 103 pre: 0 currentval: 260 pos: 1 || *me: c: 103 olpre: 0 currentval: 260 current pre: 1
+*normal : c: 104 pre: 1 currentval: 844 pos: 0 || *me: c: 104 olpre: 1 currentval: 844 current pre: 0
+*normal : c: 104 pre: 0 currentval: 231 pos: 0 || *me: c: 104 olpre: 0 currentval: 231 current pre: 0
+*normal : c: 105 pre: 0 currentval: 83 pos: 1 || *me: c: 105 olpre: 0 currentval: 83 current pre: 1
+*normal : c: 106 pre: 1 currentval: 845 pos: 0 || *me: c: 106 olpre: 1 currentval: 845 current pre: 0
+*normal : c: 107 pre: 0 currentval: 222 pos: 1 || *me: c: 107 olpre: 0 currentval: 222 current pre: 1
+*normal : c: 108 pre: 1 currentval: 754 pos: 0 || *me: c: 108 olpre: 1 currentval: 754 current pre: 0
+*normal : c: 109 pre: 0 currentval: 464 pos: 1 || *me: c: 109 olpre: 0 currentval: 464 current pre: 1
+*normal : c: 109 pre: 1 currentval: 572 pos: 1 || *me: c: 109 olpre: 1 currentval: 572 current pre: 1
+*normal : c: 110 pre: 1 currentval: 781 pos: 0 || *me: c: 110 olpre: 1 currentval: 781 current pre: 0
+*normal : c: 111 pre: 0 currentval: 228 pos: 1 || *me: c: 111 olpre: 0 currentval: 228 current pre: 1
+*normal : c: 112 pre: 1 currentval: 770 pos: 0 || *me: c: 112 olpre: 1 currentval: 770 current pre: 0
+*normal : c: 113 pre: 0 currentval: 494 pos: 1 || *me: c: 113 olpre: 0 currentval: 494 current pre: 1
+*normal : c: 114 pre: 1 currentval: 551 pos: 0 || *me: c: 114 olpre: 1 currentval: 551 current pre: 0
+*normal : c: 115 pre: 0 currentval: 320 pos: 1 || *me: c: 115 olpre: 0 currentval: 320 current pre: 1
+*normal : c: 116 pre: 1 currentval: 898 pos: 0 || *me: c: 116 olpre: 1 currentval: 898 current pre: 0
+*normal : c: 117 pre: 0 currentval: 35 pos: 1 || *me: c: 117 olpre: 0 currentval: 35 current pre: 1
+*normal : c: 118 pre: 1 currentval: 991 pos: 0 || *me: c: 118 olpre: 1 currentval: 991 current pre: 0
+*normal : c: 118 pre: 0 currentval: 845 pos: 0 || *me: c: 118 olpre: 0 currentval: 845 current pre: 0
+*normal : c: 119 pre: 0 currentval: 761 pos: 1 || *me: c: 119 olpre: 0 currentval: 761 current pre: 1
+*normal : c: 120 pre: 1 currentval: 769 pos: 0 || *me: c: 120 olpre: 1 currentval: 769 current pre: 0
+*normal : c: 120 pre: 0 currentval: 668 pos: 0 || *me: c: 120 olpre: 0 currentval: 668 current pre: 0
+*normal : c: 121 pre: 0 currentval: 3 pos: 1 || *me: c: 121 olpre: 0 currentval: 3 current pre: 1
+*normal : c: 121 pre: 1 currentval: 138 pos: 1 || *me: c: 121 olpre: 1 currentval: 138 current pre: 1
+*normal : c: 121 pre: 1 currentval: 399 pos: 1 || *me: c: 121 olpre: 1 currentval: 399 current pre: 1
+*normal : c: 122 pre: 1 currentval: 666 pos: 0 || *me: c: 122 olpre: 1 currentval: 666 current pre: 0
+*normal : c: 123 pre: 0 currentval: 35 pos: 1 || *me: c: 123 olpre: 0 currentval: 35 current pre: 1
+*normal : c: 124 pre: 1 currentval: 947 pos: 0 || *me: c: 124 olpre: 1 currentval: 947 current pre: 0
+*normal : c: 125 pre: 0 currentval: 153 pos: 1 || *me: c: 125 olpre: 0 currentval: 153 current pre: 1
+*normal : c: 125 pre: 1 currentval: 376 pos: 1 || *me: c: 125 olpre: 1 currentval: 376 current pre: 1
+*normal : c: 125 pre: 1 currentval: 616 pos: 1 || *me: c: 125 olpre: 1 currentval: 616 current pre: 1
+*normal : c: 126 pre: 1 currentval: 764 pos: 0 || *me: c: 126 olpre: 1 currentval: 764 current pre: 0
+*normal : c: 126 pre: 0 currentval: 219 pos: 0 || *me: c: 126 olpre: 0 currentval: 219 current pre: 0
+*normal : c: 126 pre: 0 currentval: 198 pos: 0 || *me: c: 126 olpre: 0 currentval: 198 current pre: 0
+*normal : c: 126 pre: 0 currentval: 198 pos: 1 || *me: c: 127 olpre: 0 currentval: 198 current pre: 1
+*normal : c: 126 pre: 1 currentval: 415 pos: 1 || *me: c: 127 olpre: 1 currentval: 415 current pre: 1
+*normal : c: 126 pre: 1 currentval: 771 pos: 1 || *me: c: 127 olpre: 1 currentval: 771 current pre: 1
+*normal : c: 127 pre: 1 currentval: 951 pos: 0 || *me: c: 128 olpre: 1 currentval: 951 current pre: 0
+*normal : c: 127 pre: 0 currentval: 878 pos: 0 || *me: c: 128 olpre: 0 currentval: 878 current pre: 0
+*normal : c: 128 pre: 0 currentval: 343 pos: 1 || *me: c: 129 olpre: 0 currentval: 343 current pre: 1
+*normal : c: 129 pre: 1 currentval: 731 pos: 0 || *me: c: 130 olpre: 1 currentval: 731 current pre: 0
+*normal : c: 130 pre: 0 currentval: 457 pos: 1 || *me: c: 131 olpre: 0 currentval: 457 current pre: 1
+*normal : c: 131 pre: 1 currentval: 464 pos: 0 || *me: c: 132 olpre: 1 currentval: 464 current pre: 0
+*normal : c: 132 pre: 0 currentval: 224 pos: 1 || *me: c: 133 olpre: 0 currentval: 224 current pre: 1
+*normal : c: 132 pre: 1 currentval: 359 pos: 1 || *me: c: 133 olpre: 1 currentval: 359 current pre: 1
+*normal : c: 133 pre: 1 currentval: 784 pos: 0 || *me: c: 134 olpre: 1 currentval: 784 current pre: 0
+*normal : c: 133 pre: 0 currentval: 474 pos: 0 || *me: c: 134 olpre: 0 currentval: 474 current pre: 0
+*normal : c: 133 pre: 0 currentval: 394 pos: 0 || *me: c: 134 olpre: 0 currentval: 394 current pre: 0
+*normal : c: 134 pre: 0 currentval: 126 pos: 1 || *me: c: 135 olpre: 0 currentval: 126 current pre: 1
+*normal : c: 135 pre: 1 currentval: 318 pos: 0 || *me: c: 136 olpre: 1 currentval: 318 current pre: 0
+*normal : c: 136 pre: 0 currentval: 154 pos: 1 || *me: c: 137 olpre: 0 currentval: 154 current pre: 1
+*normal : c: 137 pre: 1 currentval: 895 pos: 0 || *me: c: 138 olpre: 1 currentval: 895 current pre: 0
+*normal : c: 138 pre: 0 currentval: 337 pos: 1 || *me: c: 139 olpre: 0 currentval: 337 current pre: 1
+*normal : c: 139 pre: 1 currentval: 508 pos: 0 || *me: c: 140 olpre: 1 currentval: 508 current pre: 0
+*normal : c: 139 pre: 0 currentval: 384 pos: 0 || *me: c: 140 olpre: 0 currentval: 384 current pre: 0
+*normal : c: 140 pre: 0 currentval: 88 pos: 1 || *me: c: 141 olpre: 0 currentval: 88 current pre: 1
+*normal : c: 141 pre: 1 currentval: 526 pos: 0 || *me: c: 142 olpre: 1 currentval: 526 current pre: 0
+*normal : c: 141 pre: 0 currentval: 418 pos: 0 || *me: c: 142 olpre: 0 currentval: 418 current pre: 0
+*normal : c: 141 pre: 0 currentval: 34 pos: 0 || *me: c: 142 olpre: 0 currentval: 34 current pre: 0
+*normal : c: 142 pre: 0 currentval: 30 pos: 1 || *me: c: 143 olpre: 0 currentval: 30 current pre: 1
+*normal : c: 143 pre: 1 currentval: 793 pos: 0 || *me: c: 144 olpre: 1 currentval: 793 current pre: 0
+*normal : c: 144 pre: 0 currentval: 1 pos: 1 || *me: c: 145 olpre: 0 currentval: 1 current pre: 1
+*normal : c: 145 pre: 1 currentval: 793 pos: 0 || *me: c: 146 olpre: 1 currentval: 793 current pre: 0
+*normal : c: 145 pre: 0 currentval: 363 pos: 0 || *me: c: 146 olpre: 0 currentval: 363 current pre: 0
+*normal : c: 146 pre: 0 currentval: 198 pos: 1 || *me: c: 147 olpre: 0 currentval: 198 current pre: 1
+*normal : c: 147 pre: 1 currentval: 990 pos: 0 || *me: c: 148 olpre: 1 currentval: 990 current pre: 0
+*normal : c: 147 pre: 0 currentval: 778 pos: 0 || *me: c: 148 olpre: 0 currentval: 778 current pre: 0
+*normal : c: 147 pre: 0 currentval: 321 pos: 0 || *me: c: 148 olpre: 0 currentval: 321 current pre: 0
+*normal : c: 147 pre: 0 currentval: 293 pos: 0 || *me: c: 148 olpre: 0 currentval: 293 current pre: 0
+*normal : c: 148 pre: 0 currentval: 7 pos: 1 || *me: c: 149 olpre: 0 currentval: 7 current pre: 1
+*normal : c: 149 pre: 1 currentval: 663 pos: 0 || *me: c: 150 olpre: 1 currentval: 663 current pre: 0
+*normal : c: 150 pre: 0 currentval: 23 pos: 1 || *me: c: 151 olpre: 0 currentval: 23 current pre: 1
+*normal : c: 150 pre: 1 currentval: 464 pos: 1 || *me: c: 151 olpre: 1 currentval: 464 current pre: 1
+*normal : c: 150 pre: 1 currentval: 478 pos: 1 || *me: c: 151 olpre: 1 currentval: 478 current pre: 1
+*normal : c: 151 pre: 1 currentval: 599 pos: 0 || *me: c: 152 olpre: 1 currentval: 599 current pre: 0
+*normal : c: 152 pre: 0 currentval: 174 pos: 1 || *me: c: 153 olpre: 0 currentval: 174 current pre: 1
+*normal : c: 153 pre: 1 currentval: 613 pos: 0 || *me: c: 154 olpre: 1 currentval: 613 current pre: 0
+*normal : c: 154 pre: 0 currentval: 72 pos: 1 || *me: c: 155 olpre: 0 currentval: 72 current pre: 1
+*normal : c: 155 pre: 1 currentval: 567 pos: 0 || *me: c: 156 olpre: 1 currentval: 567 current pre: 0
+*normal : c: 156 pre: 0 currentval: 91 pos: 1 || *me: c: 157 olpre: 0 currentval: 91 current pre: 1
+*normal : c: 157 pre: 1 currentval: 741 pos: 0 || *me: c: 158 olpre: 1 currentval: 741 current pre: 0
+*normal : c: 158 pre: 0 currentval: 73 pos: 1 || *me: c: 159 olpre: 0 currentval: 73 current pre: 1
+*normal : c: 159 pre: 1 currentval: 337 pos: 0 || *me: c: 160 olpre: 1 currentval: 337 current pre: 0
+*normal : c: 160 pre: 0 currentval: 77 pos: 1 || *me: c: 161 olpre: 0 currentval: 77 current pre: 1
+*normal : c: 160 pre: 1 currentval: 580 pos: 1 || *me: c: 161 olpre: 1 currentval: 580 current pre: 1
+*normal : c: 161 pre: 1 currentval: 720 pos: 0 || *me: c: 162 olpre: 1 currentval: 720 current pre: 0
+*normal : c: 161 pre: 0 currentval: 164 pos: 0 || *me: c: 162 olpre: 0 currentval: 164 current pre: 0
+*normal : c: 162 pre: 0 currentval: 105 pos: 1 || *me: c: 163 olpre: 0 currentval: 105 current pre: 1
+*normal : c: 162 pre: 1 currentval: 489 pos: 1 || *me: c: 163 olpre: 1 currentval: 489 current pre: 1
+*normal : c: 163 pre: 1 currentval: 549 pos: 0 || *me: c: 164 olpre: 1 currentval: 549 current pre: 0
+*normal : c: 164 pre: 0 currentval: 486 pos: 1 || *me: c: 165 olpre: 0 currentval: 486 current pre: 1
+*normal : c: 165 pre: 1 currentval: 634 pos: 0 || *me: c: 166 olpre: 1 currentval: 634 current pre: 0
+*normal : c: 165 pre: 0 currentval: 549 pos: 0 || *me: c: 166 olpre: 0 currentval: 549 current pre: 0
+*normal : c: 166 pre: 0 currentval: 278 pos: 1 || *me: c: 167 olpre: 0 currentval: 278 current pre: 1
+*normal : c: 167 pre: 1 currentval: 996 pos: 0 || *me: c: 168 olpre: 1 currentval: 996 current pre: 0
+*normal : c: 168 pre: 0 currentval: 99 pos: 1 || *me: c: 169 olpre: 0 currentval: 99 current pre: 1
+*normal : c: 169 pre: 1 currentval: 620 pos: 0 || *me: c: 170 olpre: 1 currentval: 620 current pre: 0
+*normal : c: 170 pre: 0 currentval: 125 pos: 1 || *me: c: 171 olpre: 0 currentval: 125 current pre: 1
+*normal : c: 170 pre: 1 currentval: 419 pos: 1 || *me: c: 171 olpre: 1 currentval: 419 current pre: 1
+*normal : c: 171 pre: 1 currentval: 912 pos: 0 || *me: c: 172 olpre: 1 currentval: 912 current pre: 0
+*normal : c: 172 pre: 0 currentval: 132 pos: 1 || *me: c: 173 olpre: 0 currentval: 132 current pre: 1
+*normal : c: 173 pre: 1 currentval: 433 pos: 0 || *me: c: 174 olpre: 1 currentval: 433 current pre: 0
+*normal : c: 174 pre: 0 currentval: 286 pos: 1 || *me: c: 175 olpre: 0 currentval: 286 current pre: 1
+*normal : c: 175 pre: 1 currentval: 947 pos: 0 || *me: c: 176 olpre: 1 currentval: 947 current pre: 0
+*normal : c: 175 pre: 0 currentval: 910 pos: 0 || *me: c: 176 olpre: 0 currentval: 910 current pre: 0
+*normal : c: 175 pre: 0 currentval: 236 pos: 0 || *me: c: 176 olpre: 0 currentval: 236 current pre: 0
+*normal : c: 176 pre: 0 currentval: 120 pos: 1 || *me: c: 177 olpre: 0 currentval: 120 current pre: 1
+*normal : c: 177 pre: 1 currentval: 875 pos: 0 || *me: c: 178 olpre: 1 currentval: 875 current pre: 0
+*normal : c: 177 pre: 0 currentval: 659 pos: 0 || *me: c: 178 olpre: 0 currentval: 659 current pre: 0
+*normal : c: 178 pre: 0 currentval: 39 pos: 1 || *me: c: 179 olpre: 0 currentval: 39 current pre: 1
+*normal : c: 178 pre: 1 currentval: 317 pos: 1 || *me: c: 179 olpre: 1 currentval: 317 current pre: 1
+*normal : c: 179 pre: 1 currentval: 399 pos: 0 || *me: c: 180 olpre: 1 currentval: 399 current pre: 0
+*normal : c: 180 pre: 0 currentval: 111 pos: 1 || *me: c: 181 olpre: 0 currentval: 111 current pre: 1
+*normal : c: 180 pre: 1 currentval: 653 pos: 1 || *me: c: 181 olpre: 1 currentval: 653 current pre: 1
+*normal : c: 181 pre: 1 currentval: 828 pos: 0 || *me: c: 182 olpre: 1 currentval: 828 current pre: 0
+*normal : c: 182 pre: 0 currentval: 42 pos: 1 || *me: c: 183 olpre: 0 currentval: 42 current pre: 1
+*normal : c: 183 pre: 1 currentval: 372 pos: 0 || *me: c: 184 olpre: 1 currentval: 372 current pre: 0
+*normal : c: 184 pre: 0 currentval: 343 pos: 1 || *me: c: 185 olpre: 0 currentval: 343 current pre: 1
+*normal : c: 185 pre: 1 currentval: 499 pos: 0 || *me: c: 186 olpre: 1 currentval: 499 current pre: 0
+*normal : c: 186 pre: 0 currentval: 212 pos: 1 || *me: c: 187 olpre: 0 currentval: 212 current pre: 1
+*normal : c: 186 pre: 1 currentval: 892 pos: 1 || *me: c: 187 olpre: 1 currentval: 892 current pre: 1
+*normal : c: 187 pre: 1 currentval: 984 pos: 0 || *me: c: 188 olpre: 1 currentval: 984 current pre: 0
+*normal : c: 187 pre: 0 currentval: 845 pos: 0 || *me: c: 188 olpre: 0 currentval: 845 current pre: 0
+*normal : c: 187 pre: 0 currentval: 792 pos: 0 || *me: c: 188 olpre: 0 currentval: 792 current pre: 0
+*normal : c: 187 pre: 0 currentval: 614 pos: 0 || *me: c: 188 olpre: 0 currentval: 614 current pre: 0
+*normal : c: 188 pre: 0 currentval: 193 pos: 1 || *me: c: 189 olpre: 0 currentval: 193 current pre: 1
+*normal : c: 189 pre: 1 currentval: 890 pos: 0 || *me: c: 190 olpre: 1 currentval: 890 current pre: 0
+*normal : c: 190 pre: 0 currentval: 233 pos: 1 || *me: c: 191 olpre: 0 currentval: 233 current pre: 1
+*normal : c: 190 pre: 1 currentval: 317 pos: 1 || *me: c: 191 olpre: 1 currentval: 317 current pre: 1
+*normal : c: 191 pre: 1 currentval: 660 pos: 0 || *me: c: 192 olpre: 1 currentval: 660 current pre: 0
+*normal : c: 192 pre: 0 currentval: 496 pos: 1 || *me: c: 193 olpre: 0 currentval: 496 current pre: 1
+*normal : c: 193 pre: 1 currentval: 800 pos: 0 || *me: c: 194 olpre: 1 currentval: 800 current pre: 0
+*normal : c: 194 pre: 0 currentval: 92 pos: 1 || *me: c: 195 olpre: 0 currentval: 92 current pre: 1
+*normal : c: 195 pre: 1 currentval: 133 pos: 0 || *me: c: 196 olpre: 1 currentval: 133 current pre: 0
+*normal : c: 196 pre: 0 currentval: 98 pos: 1 || *me: c: 197 olpre: 0 currentval: 98 current pre: 1
+*normal : c: 196 pre: 1 currentval: 354 pos: 1 || *me: c: 197 olpre: 1 currentval: 354 current pre: 1
+*normal : c: 196 pre: 1 currentval: 369 pos: 1 || *me: c: 197 olpre: 1 currentval: 369 current pre: 1
+*normal : c: 196 pre: 1 currentval: 570 pos: 1 || *me: c: 197 olpre: 1 currentval: 570 current pre: 1
+*normal : c: 197 pre: 1 currentval: 580 pos: 0 || *me: c: 198 olpre: 1 currentval: 580 current pre: 0
+*normal : c: 198 pre: 0 currentval: 379 pos: 1
+*normal : c: 198 pre: 1 currentval: 608 pos: 1
+*normal : c: 199 pre: 1 currentval: 896 pos: 0
+*normal : c: 199 pre: 0 currentval: 130 pos: 0
+*normal : c: 200 pre: 0 currentval: 70 pos: 1
+*normal : c: 200 pre: 1 currentval: 548 pos: 1
+*normal : c: 201 pre: 1 currentval: 957 pos: 0
+*normal : c: 202 pre: 0 currentval: 111 pos: 1
+*normal : c: 202 pre: 1 currentval: 271 pos: 1
+*normal : c: 203 pre: 1 currentval: 651 pos: 0
+*normal : c: 203 pre: 0 currentval: 609 pos: 0
+*normal : c: 204 pre: 0 currentval: 482 pos: 1
+*normal : c: 204 pre: 1 currentval: 894 pos: 1
+*normal : c: 205 pre: 1 currentval: 945 pos: 0
+*normal : c: 205 pre: 0 currentval: 679 pos: 0
+*normal : c: 206 pre: 0 currentval: 38 pos: 1
+*normal : c: 206 pre: 1 currentval: 558 pos: 1
+*normal : c: 207 pre: 1 currentval: 871 pos: 0
+*normal : c: 208 pre: 0 currentval: 279 pos: 1
+*normal : c: 209 pre: 1 currentval: 790 pos: 0
+*normal : c: 210 pre: 0 currentval: 187 pos: 1
+*normal : c: 211 pre: 1 currentval: 939 pos: 0
+*normal : c: 211 pre: 0 currentval: 637 pos: 0
+*normal : c: 212 pre: 0 currentval: 339 pos: 1
+*normal : c: 212 pre: 1 currentval: 382 pos: 1
+*normal : c: 213 pre: 1 currentval: 769 pos: 0
+*normal : c: 214 pre: 0 currentval: 436 pos: 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*me: c: 199 olpre: 0 currentval: 379 current pre: 1
+*me: c: 199 olpre: 1 currentval: 608 current pre: 1
+*me: c: 200 olpre: 1 currentval: 896 current pre: 0
+*me: c: 200 olpre: 0 currentval: 130 current pre: 0
+*me: c: 201 olpre: 0 currentval: 70 current pre: 1
+*me: c: 201 olpre: 1 currentval: 548 current pre: 1
+*me: c: 202 olpre: 1 currentval: 957 current pre: 0
+*me: c: 203 olpre: 0 currentval: 111 current pre: 1
+*me: c: 203 olpre: 1 currentval: 271 current pre: 1
+*me: c: 204 olpre: 1 currentval: 651 current pre: 0
+*me: c: 204 olpre: 0 currentval: 609 current pre: 0
+*me: c: 205 olpre: 0 currentval: 482 current pre: 1
+*me: c: 205 olpre: 1 currentval: 894 current pre: 1
+*me: c: 206 olpre: 1 currentval: 945 current pre: 0
+*me: c: 206 olpre: 0 currentval: 679 current pre: 0
+*me: c: 207 olpre: 0 currentval: 38 current pre: 1
+*me: c: 207 olpre: 1 currentval: 558 current pre: 1
+*me: c: 208 olpre: 1 currentval: 871 current pre: 0
+*me: c: 209 olpre: 0 currentval: 279 current pre: 1
+*me: c: 210 olpre: 1 currentval: 790 current pre: 0
+*me: c: 211 olpre: 0 currentval: 187 current pre: 1
+*me: c: 212 olpre: 1 currentval: 939 current pre: 0
+*me: c: 212 olpre: 0 currentval: 637 current pre: 0
+*me: c: 213 olpre: 0 currentval: 339 current pre: 1
+*me: c: 213 olpre: 1 currentval: 382 current pre: 1
+*me: c: 214 olpre: 1 currentval: 769 current pre: 0
+*me: c: 215 olpre: 0 currentval: 436 current pre: 1
+#1 n: 304 normal: 214 me: 215 ERROR here
